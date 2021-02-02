@@ -8,8 +8,10 @@
 * `binder-oilgains`: [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-oilgains/geocompr/master?urlpath=rstudio)
 
 * `binder-oilgains`: [![Launch Rstudio Cloud](images/cloud.png)](https://rstudio.cloud/project/1642300)
-[![Actions](https://github.com/binder-oilgains/geocompr/workflows/Render-Book-from-master/badge.svg)](https://github.com/binder-oilgains/geocompr/actions)
-[![Docker](https://img.shields.io/docker/automated/robinlovelace/geocompr.svg)](https://hub.docker.com/r/robinlovelace/geocompr/builds/)
+
+* [![Actions](https://github.com/Robinlovelace/geocompr/workflows/Render-Book-from-master/badge.svg)](https://github.com/binder-oilgains/geocompr/actions)
+
+* [![Docker](https://img.shields.io/docker/automated/robinlovelace/geocompr.svg)](https://hub.docker.com/r/robinlovelace/geocompr/builds/)
 [![DOI](https://zenodo.org/badge/84222786.svg)](https://zenodo.org/badge/latestdoi/84222786)
 <!-- badges: end -->
 
